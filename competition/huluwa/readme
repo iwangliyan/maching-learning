@@ -1,0 +1,3 @@
+环境：Anaconda python 3.6
+天气文件夹：天气的爬虫代码以及简单处理
+Data文件夹：包括均值模型和GBRT代码,最初是在jupyter上调试的。
