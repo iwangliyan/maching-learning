@@ -1,0 +1,4 @@
+环境：anaconda3 + lightGBM
+执行步骤：解压后进入code文件夹， 1.运行mean.py  2.运行gen_localdata.py  3.运行zspcode.py
+
+最终结果在result文件夹中，finalres.csv
